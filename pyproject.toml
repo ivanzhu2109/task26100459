@@ -1,0 +1,13 @@
+[project]
+name = "glb-facecount"
+version = "0.1.0"
+description = "GLB 模型三角面数检查库，供资产导入流程直接调用"
+requires-python = ">=3.10"
+dependencies = ["numpy"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["glb_facecount"]
