@@ -1,0 +1,18 @@
+{
+  "billion_zero_fan": {
+    "faces": 2,
+    "seconds": 0.0043,
+    "peak_extra_bytes": 0
+  },
+  "hundred_k_overrides": {
+    "faces": 33333,
+    "seconds": 0.0288,
+    "peak_extra_bytes": 19120128
+  },
+  "near_500mib": {
+    "file_bytes": 524286976,
+    "faces": 2,
+    "seconds": 0.0059,
+    "peak_extra_bytes": 0
+  }
+}
